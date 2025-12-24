@@ -132,8 +132,7 @@ Before running the application, you need to obtain API keys:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git
-   cd awesome-llm-apps/starter_ai_agents/ai_data_visualisation_agent
+   git clone https://github.com/vanshpatil16/chat_with_dataset
    ```
 
 2. **Install Dependencies**
